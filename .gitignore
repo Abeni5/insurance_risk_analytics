@@ -1,0 +1,14 @@
+# Virtual environment
+venv/
+
+# Data files
+*.txt
+*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
